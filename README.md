@@ -6,3 +6,5 @@ npm install cors
 
 //mercado pago
 npm install mercadopago
+
+npm install dotenv --save
